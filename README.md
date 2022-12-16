@@ -1,4 +1,4 @@
-# Random<span style="color:red">C</span><span style="color:yellow">O</span><span style="color:green">L</span><span style="color:purple">O</span><span style="color:orange">R</span>
+# Random<span style="color:red">C</span><span style="color:yellow">o</span><span style="color:green">l</span><span style="color:purple">o</span><span style="color:orange">r</span>izer
 
 **Генератор цветов для оптимального подбора палитры**
 
